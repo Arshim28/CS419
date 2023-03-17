@@ -4,7 +4,7 @@
 
 The objective is to train the neural networks on audio samples, using tools like Fourier Transform, to separate musical instruments from other sounds. The models will then perform the algorithm of matching waveforms on the test set to evaluate the algorithm.
 
-## Task Breakdown (First run) :
+## Task Breakdown (First run) 
 
 - Dataset - https://zenodo.org/record/1117372#.ZBSU6HZBzEY 
 - Fourier transform - signal domain transformation.  
